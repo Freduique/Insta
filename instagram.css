@@ -1,0 +1,593 @@
+body{
+    margin-right: 20%;
+    margin-left: 28%;
+    height: 950px;
+}
+.img1{
+    width: 58px;
+    height: 58px;
+    border-radius: 55px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+}
+.imgpwofil{
+    width: 66px;
+    height: 66px;
+    padding-right: 1px;
+    border-radius: 40px;
+    background-color: rgb(255, 123, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sp1{
+    font-size: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    margin-top: 3px;
+}
+.tx1{
+    display: flex;
+    justify-content: center;
+}
+.pwofil{
+    width: 70px;
+    margin-left: 15px;
+}
+.divpwofil{
+    display: flex;
+    width: 440px;
+    height: 90px;
+    margin-bottom: 15px;
+}
+.img2{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+.img2:hover{
+    cursor: pointer;
+}
+.tx2{
+    font-size: 14px;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.tx2:hover{
+    cursor: pointer;
+}
+.tx3{
+    font-size: 12px;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(114, 114, 114);
+}
+.sp2{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(35, 156, 255);
+}
+.sp2:hover{
+    cursor: pointer;
+    color: rgb(30, 119, 192);
+}
+.boutdwat{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 300px;
+    margin-top: 10px;
+}
+.flx1{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tx4{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(102, 102, 102);
+    width: 140px;
+    font-weight: bold;
+}
+.tx5{
+    font-size:12px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50px;
+    font-weight: bold;
+}
+.tx5:hover{
+    cursor: pointer;
+    color: rgb(139, 139, 139);
+}
+.tx{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.gwobody{
+    width:670px;
+    display: flex;
+}
+.dwat{
+    margin-left: 30px;
+    width: 310px;
+    /*
+    position: absolute;
+    right: 0;
+    top: 5px;*/
+}
+.imgpost{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+}
+.tipwofil{
+    width: 37px;
+    height: 37px;
+    border-radius: 42px;
+    background-color: rgb(255, 123, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tipwofil:hover{
+    cursor: pointer;
+}
+.flx3{
+    display: flex;
+    align-items: center;
+    width: 190px;
+}
+.flx4{
+    margin-left: 10px;
+}
+.tx6{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.tx6:hover{
+    cursor: pointer;
+}
+.sp3{
+    font-weight: normal;
+    color: rgb(172, 172, 172);
+}
+.tx7{
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2px;
+}
+.tx7:hover{
+    cursor: pointer;
+}
+.logopwen{
+    width: 20px;
+}
+.img4{
+    width: 20px;
+    object-fit: contain;
+    height: 20px;
+    padding-right: 5px;
+    padding-top: 5px;
+    border-radius: 20px;
+}
+.img4:hover{
+    cursor: pointer;
+}
+.antet{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+.paragraf1{
+    display: flex;
+    justify-content: center;
+    width: 670px;
+}
+.img5{
+    width: 95%;
+    border-radius: 2px;
+    object-fit: contain;
+}
+.imgpar1{
+    display: flex;
+    justify-content: center;
+}
+.imgpar{
+    width: 470px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    background-color: rgb(238, 255, 206);
+}
+.imglike{
+    width: 25px;
+}
+.imglike:hover{
+    cursor: pointer;
+}
+.paragraf2{
+    width: 470px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.flximg{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+}
+.paragraf3{
+    display: flex;
+    justify-content: center;
+    width: 670px;
+}
+.paragraf4{
+    width: 470px;
+}
+.rond1{
+    width: 15px;
+    height: 15px;
+    border-radius: 10px;
+    background-color: rgb(231, 76, 14);
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+}
+.rond2{
+    width: 15px;
+    height: 15px;
+    margin-left: -8px;
+    border-radius: 15px;
+    background-color: rgb(252, 104, 244);
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+}
+.rond3{
+    width: 15px;
+    height: 15px;
+    border-radius: 10px;
+    margin-left: -10px;
+    background-color: rgb(241, 149, 28);
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+}
+.rond{
+    display: flex;
+    width: 45px;
+}
+.rond:hover{
+    cursor: pointer;
+}
+.flx5{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+.jaime{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.jaime:hover{
+    cursor: pointer;
+}
+.sp4{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-right: 3px;
+}
+.ekri{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+.ekri:hover{
+    cursor: pointer;
+}
+.comment{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    color: rgb(126, 126, 126);
+}
+.comment:hover{
+    cursor: pointer;
+}
+.divinput{
+    margin-left: -2px;
+    margin-top: 5px;
+}
+.inp1{
+    background-color: rgb(255, 255, 255);
+    width: 390px;
+    border-style: none;
+}
+.inp1::placeholder{
+    font-size: 13px;
+}
+.liy{
+    height: 0.5px;
+    width: 470px;
+    margin-top: 15px;
+    background-color: rgb(196, 196, 196);
+}
+.goch{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    border-right: solid;
+    border-width: 0.5px;
+    border-color: rgb(196, 196, 196) ;
+}
+
+.imgakey{
+    width: 30px;
+}
+.imgakeyprof{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
+.flxakey{
+    display: flex;
+    align-items: center;
+    width: 83%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+}
+.flxakey:hover{
+    cursor: pointer;
+    transition: 0.3s;
+    background-color:  rgb(240, 240, 240);
+}
+.dvakey{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.dvares{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+}
+.ronn{
+    width: 8px;
+    height: 14px;
+    margin-top: -27px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 1.8px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    bottom: 10px;
+    left: 15px;
+}
+    
+.ronn1{
+    width: 8px;
+    height: 8px;
+    margin-left: 7px;
+    margin-top: -26px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    font-size: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    bottom: 6px;
+    left: 15px;
+}
+.ronn2{
+    width: 16px;
+    height: 14px;
+    padding-left: 5px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 1px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: rgb(255, 255, 255);
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    bottom: 42px;
+    left: 12px;
+}
+.pozisyonanba{
+    position: absolute;
+    bottom: 15px;
+    width: 100%;
+}
+.avanse{
+    height: 35px;
+}
+.dvimg{
+    height: 40px;
+    margin-bottom: 40px;
+}
+.dvinsta{
+    display: flex;
+    justify-content: center;
+    width: 95px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+}
+.imginsta{
+    width: 100px;
+}
+.imginsta:hover{
+    cursor: pointer;
+}
+.dvlogoinsta{
+    width: 35px;
+}
+.logoinsta{
+    width: 30px;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+@media(min-width:1310px){
+    .dvlogoinsta{
+        display: none;
+    }
+    .mete{
+        display: none;
+    }
+    .anba{display: none;}
+}
+@media (max-width:1310px) {
+    .dvares{
+        display: none;
+    }
+    .dvakey{
+        display: none;
+    }
+    .goch{
+        width: 80px;
+    }
+    .flxakey{
+        width: 50%;
+    }
+    .imginsta{
+        display: none;
+    }
+    body{
+        margin-right: 20%;
+        margin-left: 10%;
+    }
+    .mete{
+        display: none;
+    }
+    .anba{display: none;}
+}
+@media (max-width:1210px){
+    .dwat{
+        display: none;
+    }
+    body{
+        display: flex;
+        justify-content: center;
+    }
+    body{
+        margin-right: 20%;
+        margin-left: 20%;
+    }
+}
+@media (max-width:850px){
+    .goch{
+        display: none;
+    }
+    body{
+        display: block;
+        margin-left: 0;
+        padding-top: 50px;
+    }
+    .imganle{
+        width: 120px;
+        margin-left: 10px;
+    }
+    .divpwofil{
+        border-bottom: solid;
+        border-width: 1px;
+        border-color: rgb(212, 212, 212);
+    }
+    .dvgwo{
+        display: block;
+        justify-content: center;
+    }
+    .paragraf1{
+        width: 91%;
+    }
+    .dvanndan{
+        width: 430px;
+    }
+    .paragraf2{
+        width: 90%;
+        margin-right: 15px;
+    }
+    .antet{
+        width: 370px;
+        margin-right: 5px;
+    }
+    .paragraf4{
+        width: 95%;
+    }
+    .flxanle{
+        width: 80px;
+        margin-right: 15px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .mete{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: white;
+        position: fixed;
+        top: 0;
+        border-bottom: solid;
+        border-width: 1px;
+        border-color: rgb(224, 224, 224);
+    }
+    .anba{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 85%;
+        height: 50px;
+        padding-left: 30px;
+        padding-right: 30px;
+        position: fixed;
+        bottom: 0;
+        background-color: white;
+        border-top: solid;
+        border-width: 1px;
+        border-color: rgb(224, 224, 224);
+    }
+}
+
+
+
+
